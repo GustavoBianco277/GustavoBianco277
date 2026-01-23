@@ -74,4 +74,4 @@ I build scalable systems, efficient gameplay solutions, and professional-grade t
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/gustavobianco277/gustavobianco277/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/gustavobianco277/gustavobianco277/output/github-contribution-grid-snake-dark.svg)
