@@ -50,10 +50,10 @@ I build scalable systems, efficient gameplay solutions, and professional-grade t
 
 <div align="center">
   <img width="42%" height="195px"
-    src="https://github-readme-stats.vercel.app/api?username=GustavoBadziakBianco&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=7CFC00&icon_color=7CFC00&bg_color=0d1117&text_color=C0C0C0" />
+    src="https://github-readme-stats.vercel.app/api?username=gustavobianco277&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=7CFC00&icon_color=7CFC00&bg_color=0d1117&text_color=C0C0C0" />
   
   <img width="35%" height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBadziakBianco&layout=compact&hide_border=true&title_color=7CFC00&bg_color=0d1117&text_color=C0C0C0" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobianco277&layout=compact&hide_border=true&title_color=7CFC00&bg_color=0d1117&text_color=C0C0C0" />
 </div>
 
 ---
