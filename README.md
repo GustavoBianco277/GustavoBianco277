@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=7CFC00&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Gustavo+Badziak+Bianco;Unity+Game+Developer;Multiplayer+%7C+Performance+%7C+Gameplay)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Gustavo+Badziak+Bianco;Unity+Game+Developer;Multiplayer+%7C+Performance+%7C+Gameplay)](https://git.io/typing-svg)
 
 ---
 
