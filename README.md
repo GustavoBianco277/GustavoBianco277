@@ -30,28 +30,32 @@ I build scalable systems, efficient gameplay solutions, and professional-grade t
 
 ---
 
-## 🧩 Featured Project — Unity Asset
+## 🧩 Featured Project
 
 <div align="center">
-  <a href="https://github.com/GustavoBianco277/Anti-Wallhack-Visibility-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoBianco277&repo=Anti-Wallhack-Visibility-System&title_color=7CFC00&bg_color=0d1117&text_color=C0C0C0&hide_border=true"/>
-  </a>
-
-  <br><br>
-
-  <a href="https://gustavobianco277.github.io/Anti-Wallhack-Visibility-System/">
-    <img src="https://img.shields.io/badge/Anti--Wallhack%20Website-Online-7CFC00?style=for-the-badge&logo=unity&logoColor=black"/>
-  </a>
-
-  <a href="https://gustavobianco277.github.io/Extreme-world-Survival-Game/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoBianco277&repo=Extreme-world-Survival-Game&title_color=7CFC00&bg_color=0d1117&text_color=C0C0C0&hide_border=true"/>
-  </a>
-
-  <br><br>
-
-  <a href="https://gustavobianco277.github.io/Extreme-world-Survival-Game/">
-    <img src="https://img.shields.io/badge/Game%20Website-Online-7CFC00?style=for-the-badge&logo=unity&logoColor=black"/>
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/GustavoBianco277/Anti-Wallhack-Visibility-System">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoBianco277&repo=Anti-Wallhack-Visibility-System&title_color=7CFC00&bg_color=0d1117&text_color=C0C0C0&hide_border=true"/>
+        </a>
+        <br><br>
+        <a href="https://gustavobianco277.github.io/Anti-Wallhack-Visibility-System/">
+          <img src="https://img.shields.io/badge/Anti--Wallhack%20Website-Online-7CFC00?style=for-the-badge&logo=unity&logoColor=black"/>
+        </a>
+      </td>
+      <td width="40"></td>
+      <td align="center">
+        <a href="https://github.com/GustavoBianco277/Extreme-world-Survival-Game">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoBianco277&repo=Extreme-world-Survival-Game&title_color=7CFC00&bg_color=0d1117&text_color=C0C0C0&hide_border=true"/>
+        </a>
+        <br><br>
+        <a href="https://gustavobianco277.github.io/Extreme-world-Survival-Game/">
+          <img src="https://img.shields.io/badge/Game%20Website-Online-7CFC00?style=for-the-badge&logo=unity&logoColor=black"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
