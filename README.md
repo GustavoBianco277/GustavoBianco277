@@ -40,7 +40,11 @@ I build scalable systems, efficient gameplay solutions, and professional-grade t
   <br><br>
 
   <a href="https://gustavobianco277.github.io/Anti-Wallhack-Visibility-System/">
-    <img src="https://img.shields.io/badge/Official%20Website-Online-7CFC00?style=for-the-badge&logo=unity&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Anti--Wallhack%20Website-Online-7CFC00?style=for-the-badge&logo=unity&logoColor=black"/>
+  </a>
+
+  <a href="https://gustavobianco277.github.io/Extreme-world-Survival-Game/">
+    <img src="https://img.shields.io/badge/Game%20Website-Online-FF3C00?style=for-the-badge&logo=unity&logoColor=black"/>
   </a>
 </div>
 
