@@ -80,7 +80,7 @@ I build scalable systems, efficient gameplay solutions, and professional-grade t
   <img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/gustavo-bianco-277">
+<a href="https://www.linkedin.com/in/gustavo-bianco-7b5812227/">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
