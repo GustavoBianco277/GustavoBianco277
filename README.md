@@ -37,7 +37,7 @@ I build scalable systems, efficient gameplay solutions, and professional-grade t
     <tr>
       <td align="center">
         <a href="https://github.com/GustavoBianco277/Anti-Wallhack-Visibility-System">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoBianco277&repo=Anti-Wallhack-Visibility-System&title_color=7CFC00&bg_color=0d1117&text_color=C0C0C0&hide_border=true"/>
+          <img src="https://project-azdh6.vercel.app/api/pin/?username=GustavoBianco277&repo=Anti-Wallhack-Visibility-System&title_color=7CFC00&bg_color=0d1117&text_color=C0C0C0&hide_border=true"/>
         </a>
         <br><br>
         <a href="https://gustavobianco277.github.io/Anti-Wallhack-Visibility-System/">
@@ -47,7 +47,7 @@ I build scalable systems, efficient gameplay solutions, and professional-grade t
       <td width="40"></td>
       <td align="center">
         <a href="https://github.com/GustavoBianco277/Extreme-world-Survival-Game">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoBianco277&repo=Extreme-world-Survival-Game&title_color=7CFC00&bg_color=0d1117&text_color=C0C0C0&hide_border=true"/>
+          <img src="https://project-azdh6.vercel.app/api/pin/?username=GustavoBianco277&repo=Extreme-world-Survival-Game&title_color=7CFC00&bg_color=0d1117&text_color=C0C0C0&hide_border=true"/>
         </a>
         <br><br>
         <a href="https://gustavobianco277.github.io/Extreme-world-Survival-Game/">
@@ -64,10 +64,10 @@ I build scalable systems, efficient gameplay solutions, and professional-grade t
 
 <div align="center">
   <img width="42%" height="195px"
-    src="https://github-readme-stats.vercel.app/api?username=gustavobianco277&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=7CFC00&icon_color=7CFC00&bg_color=0d1117&text_color=C0C0C0" />
+    src="https://project-azdh6.vercel.app/api?username=gustavobianco277&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=7CFC00&icon_color=7CFC00&bg_color=0d1117&text_color=C0C0C0" />
   
   <img width="35%" height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobianco277&layout=compact&hide_border=true&title_color=7CFC00&bg_color=0d1117&text_color=C0C0C0" />
+    src="https://project-azdh6.vercel.app/api/top-langs/?username=gustavobianco277&layout=compact&hide_border=true&title_color=7CFC00&bg_color=0d1117&text_color=C0C0C0" />
 </div>
 
 ---
@@ -77,15 +77,11 @@ I build scalable systems, efficient gameplay solutions, and professional-grade t
 <div align="center">
 
 <a href="mailto:Gustavobiancooficial@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/gustavo-bianco-7b5812227/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/gustavo-bianco-277">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
-
----
-
-![Snake animation](https://raw.githubusercontent.com/gustavobianco277/gustavobianco277/output/github-contribution-grid-snake-dark.svg)
